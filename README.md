@@ -1,4 +1,4 @@
 # .Net-Libs
-- GunaUI 
+- GunaUI https://github.com/SheratoD/.Net-Libs/releases/download/guna/Guna.UI2.dll
 - SiticoneUI
--BunifuUI
+- BunifuUI https://github.com/SheratoD/.Net-Libs/releases/download/bunifu/Bunifu.Licensing.dll
