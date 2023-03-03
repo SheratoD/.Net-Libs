@@ -5,5 +5,6 @@
 Check Releases
 
 - GunaUI 
+- GunaChart
 - SiticoneUI
 - BunifuUI
